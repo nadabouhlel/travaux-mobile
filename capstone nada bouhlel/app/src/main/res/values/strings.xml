@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Next Stop</string>
+    <!--Landing page-->
+    <string name="fb_start">Login with Facebook</string>
+    <!--Navigation Drawer and other navigation flow strings-->
+    <string name="userAvatar">userAvatar</string>
+
+    <!--Landing page -->
+    <string name="desc_1">Find incredible\nplaces you\nwill</string>
+    <string name="sub_desc_1">NextStop helps you to find exciting things to do, no matter where you
+        go.
+    </string>
+    <string name="desc_1_append_1">love</string>
+    <string name="desc_2">Your\n</string>
+    <string name="desc_2_append_1">favorite\n</string>
+    <string name="desc_2_append_2">places</string>
+    <string name="sub_desc_2">Explore the world searching\nby location, interests and\nmore on the
+        go.
+    </string>
+    <string name="desc_3">The</string>
+    <string name="desc_3_append_1">world\n</string>
+    <string name="desc_3_append_2">in your\npocket</string>
+    <string name="sub_desc_3">Save your trip for easy\naccess later</string>
+    <string name="desc_on_boarding">Discover\n</string>
+    <string name="desc_on_boarding_append">interesting things</string>
+    <string name="sub_desc_on_boarding">Let us help you to plan your\nnext trip to amazing places.
+    </string>
+    <string name="signup">Signup</string>
+    <string name="login">login</string>
+    <string name="skip"><![CDATA[Skip >>]]></string>
+    <string name="hint_your_email">Your email</string>
+    <string name="hint_password">Password</string>
+    <string name="pwd_toggle">Toggle Password visibility</string>
+    <string name="persona_heading">What types of places do you prefer to visit ?</string>
+    <string name="choice_desc">You can choose one or more</string>
+    <string name="next">NEXT</string>
+    <string name="sample">Sample</string>
+    <string name="sort">Choose a sort</string>
+    <string name="search">Search</string>
+    <string name="no_search_results">No results for\n“%1$s</string>
+    <string name="search_hint">Search for places , things to do</string>
+
+    <!-- app shortcuts -->
+    <string name="shortcut_search_short_label">@string/search</string>
+    <string name="shortcut_search_long_label">@string/search</string>
+    <string name="shortcut_search_disabled">Search not available</string>
+
+
+    <!-- Log Glide -->
+    <string name="log_error">Glide url = %1$s : %2$s</string>
+    <string name="format_temperature"><xliff:g mId="temp">%1.0f</xliff:g></string>
+    <string name="value_units_metric">Metric</string>
+
+    <string name="slide_it_down">Slide it down</string>
+    <string name="filters">Filters</string>
+    <string name="apply">APPLY</string>
+    <string name="about_app">About</string>
+    <string name="sample_sub">Sample Sub</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, dicunt adipiscing dissentiunt his et, no vim
+        vero falli vidisse. Ius in tation recteque, semper urbanitas et eam. At his laoreet fierent
+        verterem, et doctus ocurreret duo. Expetenda evertitur est id, his libris placerat
+        expetendis at.\nDiam pertinacia an mea, dictas aliquip eleifend vel te, scripta fabulas ius
+        ad. Mel quot fastidii rationibus no. Pri at consul menandri definiebas. Quo quot verear et.
+        \nEum possim nusquam ea, mea eu stet scaevola. Ne quo ipsum noluisse, eam luptatum perpetua
+        at. Eam ornatus splendide concludaturque no, duo cibo persecuti no, usu ea mutat salutatus.
+        No eros discere tincidunt eam, eum id virtute suscipiantur. Invenire
+    </string>
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_settings">Settings</string>
+    <string name="image">image</string>
+    <string name="plan_your_trip_to">Plan your trip</string>
+    <string name="my_email">aditlal90@gmail.com</string>
+    <string name="my_site">http://aditlal.net</string>
+    <string name="Project">aldefy/Capstone-Project</string>
+    <string name="version">Version 1.00</string>
+    <string name="family">Family</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="Shopping">Shopping</string>
+    <string name="Sun">Sun</string>
+    <string name="Adventure">Adventure</string>
+    <string name="landmarks">Landmarks</string>
+    <string name="sports">Sports</string>
+    <string name="nightlife">Nightlife</string>
+    <string name="food">Food</string>
+    <string name="cityscape">Cityscape</string>
+    <string name="history">History</string>
+    <string name="picturesque">Picturesque</string>
+    <string name="beaches">Beaches</string>
+    <string name="islands">Islands</string>
+    <string name="romantic">Romantic</string>
+    <string name="art">Art</string>
+    <string name="luxury">Luxury</string>
+    <string name="users">users</string>
+    <string name="persona_tags">personaTags</string>
+    <string name="persona">persona</string>
+    <string name="play_services_check">Update play services before you continue to use NextStop
+    </string>
+    <string name="place">place</string>
+    <string name="leftNav">leftNav</string>
+    <string name="rightNav">rightnav</string>
+    <string name="connection_failure">connection failure</string>
+    <string name="container_image">container image</string>
+    <string name="tag_signin">signInWithCredential:onComplete:</string>
+    <string name="tag_signin_failure">signInWithCredential</string>
+    <string name="auth_failure">Authentication failed.</string>
+    <string name="place_load">Place to be loaded =</string>
+    <string name="auth_loading">Authenticating..</string>
+
+</resources>
+
